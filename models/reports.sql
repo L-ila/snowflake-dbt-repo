@@ -1,0 +1,1 @@
+select * from DB_REPORT.SC_REPORT.USERS_REPORTS
